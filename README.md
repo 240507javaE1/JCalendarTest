@@ -2,8 +2,7 @@
 My hw4example
 
 
-![10111111111111圖](picture/101.jpg)
-
+![10111111111111圖](S__12484618.jpg)
 
 
 <ul type="disk">
